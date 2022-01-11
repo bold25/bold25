@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bold25
-- 👀 I’m interested in app developin
+- 👀 I’m interested in app developing
 - 🌱 I’m currently learning mobile app development
 - 💞️ I’m looking to collaborate on developers
 - 📫 How to reach me on whatsapp +2348137251717
