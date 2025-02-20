@@ -1,1 +1,1 @@
-Hi, I'm Bold. i'm a web developer.
+Cybersecurity specialist with hands-on experience in SIEM monitoring, network traffic analysis, Security and Risk Management and endpoint threat hunting, I am passionate about safeguarding organizations against evolving cyber threats. My strengths include strong problem-solving skills, attention to detail, and a solid understanding of cybersecurity tools and frameworks, which I am continuously refining through practical experience and ongoing learning.
